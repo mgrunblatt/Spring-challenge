@@ -14,8 +14,8 @@ public class ArticleDTO {
     private String name;
     private String category;
     private String brand;
-    private String price;
-    private String quantity;
+    private double price;
+    private int quantity;
     private String freeShipping;
     private String prestige;
 
